@@ -13,9 +13,8 @@ I'm KireiOishi, a developer passionate about building efficient, user-friendly a
 
 ### 🌱 I’m currently learning
 - **Dart**: Practicing Dart to explore mobile and web app development, focusing on Flutter for cross-platform solutions.
-- Advanced JavaScript for modular frontend development (e.g., enhancing `patient-edit.js`).
+- Advanced JavaScript for modular frontend development 
 - Best practices for API design and database optimization in PHP and MySQL.
-- Debugging techniques to resolve issues like undefined array keys or naming mismatches.
 
 ### 👯 I’m looking to collaborate on
 - Open-source healthcare applications, especially dental or medical systems.
@@ -24,7 +23,6 @@ I'm KireiOishi, a developer passionate about building efficient, user-friendly a
 
 ### 🤔 I’m looking for help with
 - Optimizing API performance for patient data updates and POS transactions.
-- Standardizing naming conventions across frontend and backend (e.g., `doctor_comment` vs. `doctorComment`).
 - Best practices for structuring Dart/Flutter projects.
 
 ### 💬 Ask me about
