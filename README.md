@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://mayu.due.moe/get/@KireiOishi?theme=rule34&padding=6" alt="KireiOishi" />
+![KireiOishi](https://mayu.due.moe/get/@KireiOishi?theme=gelbooru&padding=6)
 Counter started May 7, 2025
 
 ![KireiOishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KireiOishi&show_icons=true&theme=radical)
@@ -8,8 +8,8 @@ I'm KireiOishi, a developer passionate about building efficient, user-friendly a
 
 ### 🔭 I’m currently working on
 - **Dental System Application**: A web app for patient management, featuring doctor comments, treatment records, and permissions systems using PHP, JavaScript, and MySQL.
-- **POS System**: Developing a cashier POS interface (`cashier_pos.php`) with centralized session management and barcode generation for streamlined transactions.
-- **API Enhancements**: Improving backend APIs in `PatientApiController.php` to handle fields like `doctor_comment` with robust validation and error handling.
+- **POS System**: Developing a cashier POS interface with centralized session management and barcode generation for streamlined transactions.
+
 
 ### 🌱 I’m currently learning
 - **Dart**: Practicing Dart to explore mobile and web app development, focusing on Flutter for cross-platform solutions.
