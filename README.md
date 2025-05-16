@@ -1,5 +1,5 @@
 ## Hi there 👋
-![KireiOishi](https://mayu.due.moe/get/@KireiOishi?theme=gelbooru&padding=6)
+<img src="https://mayu.due.moe/get/@KireiOishi?theme=rule34&padding=6" alt="KireiOishi" />
 Counter started May 7, 2025
 
 ![KireiOishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KireiOishi&show_icons=true&theme=radical)
